@@ -1,0 +1,12 @@
+diff --git a/dato.py b/dato.py
+index 8b4b952..3d39bae 100644
+--- a/dato.py
++++ b/dato.py
+@@ -1,3 +1,3 @@
+-usuario = "Isaias"
++datos = "Isaias"
+ 
+-print(f"bienvenido {usuario} ")
+\ No newline at end of file
++print(f"bienvenido {datos} ")
+\ No newline at end of file
